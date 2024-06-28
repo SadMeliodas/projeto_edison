@@ -1,1 +1,5 @@
 # projeto_edison
+
+turma: 3°ADS
+
+ALUNOS; ARTHUR GABRIEL, CLEITON DAVID, JOÃO MARCOLINO
